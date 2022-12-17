@@ -6,6 +6,10 @@ http://www.tooplate.com/view/2094-mason
 
 */
 
+#my{
+	zoom: 80%;
+	}
+
 a:focus {
 	color: #666;
 	outline: none;
